@@ -11,4 +11,4 @@ What are the most significant economic factors contributing to the death rate fr
 
 ### Development Environment
 1. Run `conda env create -f environment.yml` in terminal.
-2. `conda activate substance_abuse ` to activate the environment.
+2. `conda activate rEnv ` to activate the environment.
