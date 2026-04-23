@@ -1,0 +1,25 @@
+name: rEnv
+channels:
+  - defaults
+dependencies:
+  - r-patchwork
+  - r-irkernel
+  - r-dplyr
+  - r-mass
+  - r-base
+  - r-ggplot2
+  - r-mgcv
+  - r-languageserver
+  - r-testthat
+  - r-corrplot
+  - nbconvert
+  - pandoc
+  - jupyter
+  - r-tidyverse
+  - r-caret
+  - r-car
+  - r-leaps
+  - r-hmisc
+  - r-here
+  - r-mumin
+prefix: /Users/amberteetsel/opt/anaconda3/envs/rEnv
