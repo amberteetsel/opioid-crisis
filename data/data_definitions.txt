@@ -1,0 +1,19 @@
+Data Definitions for Final Death Rate Data
+
+year: year
+state: state abbreviation
+pop: population
+hydro_gms: Grams of Hydrocodone per 100k population, legitimate transactions
+oxy_gms: Grams of Oxycodone per 100k population, legitimate transactions
+fent_gms: Grams of Fentanyl per 100k population, legitimate transactions
+unempl_rate: Percentage Unemployment (e.g. 2.5 means 2.5% unemployment)
+poverty_rate: Percentage Poverty (e.g. 13.1 means 13.1% of people are living in poverty)
+snap_rate: Percentage of people receiving SNAP benefits
+medicaid_rate: Percentage of people receiving Medicaid benefits
+gsp_per_cap: Gross State Product per Person
+min_wage: State Minimum Wage
+death_rate: Overdose Deaths per 100k population
+log_hydro: ln(hydro_gms + 1)
+log_oxy: ln(oxy_gms + 1)
+log_fent: ln(fent_gms + 1)
+log_death_rate: ln(death_rate + 1)
