@@ -1,0 +1,4 @@
+"","Split_Type","RMSE","MAE","MAPE_pct","R2_Test"
+"bic_metrics","Random",299.13,165.25,32.6,0.858
+"bic_metrics_temp","Temporal",662.85,351.84,30.74,0.728
+"bic_metrics_temp_fent","Temporal (+Fentanyl)",633.62,344.65,30.29,0.744

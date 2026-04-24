@@ -1,0 +1,5 @@
+"","Criterion","Predictors","df","AICc","BIC","HQIC"
+"1","Full Model","gsp_per_cap, log_fent, log_hydro, log_oxy, medicaid_rate, min_wage, poverty_rate, snap_rate, unempl_rate",11,10997.07,11048.95,11012.93
+"2","Min AICc (Predictive)","gsp_per_cap, log_fent, log_hydro, log_oxy, min_wage, poverty_rate, snap_rate",9,10994.64,11037.13,11006.97
+"3","Min HQIC (Balanced)","gsp_per_cap, log_hydro, log_oxy, min_wage, snap_rate",7,10996,11029.09,11004.78
+"4","Min BIC (Parsimonious)","gsp_per_cap, log_hydro, log_oxy, min_wage, snap_rate",7,10996,11029.09,11004.78
